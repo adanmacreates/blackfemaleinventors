@@ -212,9 +212,9 @@ function reset() { // reset text
 // Social Links Popup window
 
 function facebookLink() {
-  window.open("https://www.facebook.com/sharer/sharer.php?u=http://www.adanmacreates.com", " ", "width=500,height=500");
+  window.open("https://www.facebook.com/sharer/sharer.php?u=https://blackfemaleinventors.netlify.com/", " ", "width=500,height=500");
 };
 
 function twitterLink() {
-  window.open("https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.adanmacreates.com&text=Learn%20about%206%20Black%20Women%20who%20changed%20History%20through%20this%20interactive%20site!%20", " ", "width=500,height=500");
+  window.open("https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.blackfemaleinventors.netlify.com&text=Learn%20about%206%20Black%20Women%20who%20changed%20History%20through%20this%20interactive%20site!%20", " ", "width=500,height=500");
 };
