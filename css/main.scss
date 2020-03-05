@@ -221,7 +221,6 @@ p {
   margin-left: -2%;
   top: 14%;
   &__link {
-    font: bold 20px "Adrianna", "Montserrat", sans-serif;
     margin: 20px 0px;
     background-color: $red;
     border-radius: 100px;
@@ -239,6 +238,9 @@ p {
     -webkit-transition: background-color 0.1s ease-in-out;
     transition: background-color 0.1s ease-in-out;
     z-index: 1;
+    // &__img:hover {
+    //   fill: #27988f;
+    // }
     &:hover {
       background-color: white;
       -webkit-transition: background-color 0.1s ease-in-out;
