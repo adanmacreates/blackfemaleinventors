@@ -11,7 +11,7 @@ This website will tell a story about 6 American women of color who had their inv
 
 ## TECHNICAL DETAILS
 
-It utilizes
+It utilizes:
 - HTML
 - CSS (SCSS)
 - JavaScript
