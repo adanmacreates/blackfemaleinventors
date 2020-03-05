@@ -83,7 +83,7 @@ let Sarah1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'sarah1.json'
+  path: 'json/sarah1.json'
 })
 
 // Sarah - Folding Bed
@@ -106,7 +106,7 @@ let Annie1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'annie1.json'
+  path: 'json/annie1.json'
 })
 
 let Annie2__ani = bodymovin.loadAnimation({
@@ -114,7 +114,7 @@ let Annie2__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'annie2.json'
+  path: 'json/annie2.json'
 })
 
 let Alice1__ani = bodymovin.loadAnimation({
@@ -122,7 +122,7 @@ let Alice1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'alice1.json'
+  path: 'json/alice1.json'
 })
 
 let Alice2__ani = bodymovin.loadAnimation({
@@ -130,7 +130,7 @@ let Alice2__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'alice2.json'
+  path: 'json/alice2.json'
 })
 
 let Marie1__ani = bodymovin.loadAnimation({
@@ -138,7 +138,7 @@ let Marie1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'marie1.json'
+  path: 'json/marie1.json'
 })
 
 let Patricia1__ani = bodymovin.loadAnimation({
@@ -146,7 +146,7 @@ let Patricia1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'patricia1.json'
+  path: 'json/patricia1.json'
 })
 
 let Marian1__ani = bodymovin.loadAnimation({
@@ -154,7 +154,7 @@ let Marian1__ani = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'Marian1.json'
+  path: 'json/Marian1.json'
 })
 
 // Marie Van Brittan Brown 
