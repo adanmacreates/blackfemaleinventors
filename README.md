@@ -3,6 +3,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eefc0b5c-78fc-46a9-9b85-6c32e7a75402/deploy-status)](https://app.netlify.com/sites/blackfemaleinventors/deploys)
 
+[View The Live Site](https://blackfemaleinventors.netlify.com/)
+
 ## EXECUTIVE SUMMARY
 
 This is a website that highlights 6 women throughout history that are not household names. This interactive experience will allow see these women and their inventions in action through bright minimalist web animations. Using the most up to date web technologies, children and adults will get to learn about the people who made inventions that impacted American society.
